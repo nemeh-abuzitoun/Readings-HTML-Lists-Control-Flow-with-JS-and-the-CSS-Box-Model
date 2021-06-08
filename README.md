@@ -2,10 +2,9 @@
 CSS Box Model
 
 
-HTML-Lists
+# HTML-Lists
 
-HTML lists allow web developers to group a set of related items in lists.
-
+   HTML lists allow web developers to group a set of related items in lists.
 Example
 An unordered HTML list:
 
@@ -66,6 +65,8 @@ Tag	Description
 <dd>	Describes the term in a description list
 For a complete list of all available HTML tags, visit our HTML Tag Reference.
 All HTML elements can be considered as boxes.
+  
+  for more information visit :
 https://www.w3schools.com/html/html_lists.asp
   
   
@@ -73,8 +74,8 @@ https://www.w3schools.com/html/html_lists.asp
   
   
   
-The CSS Box Model
-In CSS, the term "box model" is used when talking about design and layout.
+# The CSS Box Model
+       In CSS, the term "box model" is used when talking about design and layout.
 
 The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. The image below illustrates the box model:
 
@@ -122,16 +123,25 @@ Total element width = width + left padding + right padding + left border + right
 The total height of an element should be calculated like this:
 
 Total element height = height + top padding + bottom padding + top border + bottom border + top margin + bottom margin
-
+  
+  for more information visit :
 https://www.w3schools.com/css/css_boxmodel.asp
   
-  control flow
-  Control flow on Javascript
-One of the most famous poets from Portugal has a sentence that is: “Primeiro estranha-se,depois entranha-se”, that in English is something like first it feels weird but then you feel it in you. That has been my experience with Javascript since the beginning. It started something that just felt weird but with time, it got on me and now I just want to know more and more and practice more and more.
-That being said I decided to write posts about Javascript topics. By writing it here I learn it better and you will also find something useful out of it. Because I am a code newbie and mostly I write these posts for other code newbies it might be that some things seem easy, even for me and you, but it just to get a ground start and to not jump over bit subjects in a topic.
+  
+  
+
+  
+ # Control flow on Javascript
+  
+     One of the most famous poets from Portugal has a sentence that is: “Primeiro estranha-se,depois entranha-se”, that in English is something like first it feels weird but then you feel it in you. That has been my experience with Javascript since the beginning.
+  It started something that just felt weird but with time, it got on me and now I just want to know more and more and practice more and more.
+That being said I decided to write posts about Javascript topics.
+  By writing it here I learn it better and you will also find something useful out of it. Because I am a code newbie and mostly I write these posts for other code newbies it might be that some things seem easy, even for me and you, but it just to get a ground start and to not jump over bit subjects in a topic.
 The first one of this long series is going to be about Control flow in Javascript.
 Control flow is in computer science the order that the instructions or statements or functions are executed. In javascript, we read the code starting from the first line till the last line unless of course in the code there is some instructions or statements that changes that control flow.
 The most known control flow used I would think is the if statement that we used many of our code. For example, you want a website to show some page if you are older than 18, if not, the website would render a different page is a traditional example of a control flow/ conditional example
 NOTE: Loops are a big part of control flow statement but because I want to write a post only about loops, even that I am going to mention and use them on the examples it will not be my main focus.
+  
+    for more information visit :
   https://dev.to/mugas/control-flow-in-javascript-246l
   
